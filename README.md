@@ -6,8 +6,9 @@ Bu repo [Kodluyoruz](https://academy.patika.dev/tr/courses/git/odev1) Front-End 
 
 Öncelikle projenizi clonlayın
 
-'''  git clone https://github.com/IremAdgzl/kodluyoruzilkrepo
-
+```
+git clone https://github.com/IremAdgzl/kodluyoruzilkrepo
+```
 
 ## Usage
 
